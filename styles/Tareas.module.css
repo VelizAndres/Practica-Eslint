@@ -1,0 +1,119 @@
+.alerta
+{
+    margin-right: 10px;
+    align-self: center ;
+    color: red;
+}
+
+
+.buttonBlue
+{
+    background-color: blue;
+    border-radius: 25px;
+    font-size: 24px;
+}
+
+.buttonInput
+{
+    background-color: gainsboro;
+    border-radius: 25px;
+    color: black;
+    font-size: 32px;
+    margin-left: 100px;
+    padding: 10px;
+}
+
+.contenedor
+{
+    align-items: center;
+    background-color: rgb(30, 86, 30);
+    border: 2px solid white;
+    display: grid;
+    height: 350px;
+    justify-content: center;
+    width: 350px;
+}
+
+.contenedorText
+{
+    align-items: center;
+    background-color: rgb(30, 86, 30);
+    border: 2px solid white;
+    display: block;
+    height: 350px;
+    justify-content: center;
+    padding: 16px;
+    width: 350px;
+}
+
+.contenedorTitle
+{
+    align-items: center;
+    display: block;
+    font-size: 40px;
+    justify-items: center;
+    padding: 16px;
+    text-align: center;
+}
+
+.contenedorInput
+{
+    display: flex;
+    font-size: 32px;
+    margin: 24px;
+}
+
+.inputText
+{
+    padding: 5px;
+    font-size: 32px;
+    margin-left: 16px;
+    margin-right: 10px;
+
+}
+
+.contenedorInput p
+{
+    margin-right: 10px;
+    align-self: center ;
+}
+
+.contenedor h1
+{
+    text-align: center;
+}
+
+
+
+
+
+.inputWhite
+{
+    background-color: white;
+    color: black;
+    font-size: 24px;
+    padding: 4px;
+}
+
+.superContenedor
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.texto
+{
+    font-size: 24px;
+    text-align: center;
+}
+
+.textoLargo
+{
+    margin-top: 16px;
+    overflow-wrap: break-word;
+}
+
+.title
+{
+
+}
